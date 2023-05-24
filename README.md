@@ -1,5 +1,5 @@
 # Installation
-- git clone https://github.com/hungthinhtran/VxNet
+- git clone https://github.com/hungthinhtran/Vsec_VxNet
 - cd VxNet
 - python3 VxNet.py
 
